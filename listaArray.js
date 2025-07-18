@@ -5,7 +5,7 @@ const funcionarios = [
     },
     {
         nome: "Mateus",
-        idade : 37
+        idade : 40
     },
     {
         nome : 'Gabriel',
@@ -13,7 +13,7 @@ const funcionarios = [
     },
     {
         nome: "Ana",
-        idade : 50
+        idade : 150
     },
     {
         nome : 'Julia',
